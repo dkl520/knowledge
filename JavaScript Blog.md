@@ -4,4 +4,6 @@
 
 汤姆大叔的博客：[深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 
+每天一点JS小知识：[JavaScript Tips](http://www.jstips.co/zh_CN)
+
 [JavaScript中真正的哈希映射](http://www.tuicool.com/articles/NBVvmqU)
