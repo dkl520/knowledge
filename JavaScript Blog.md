@@ -15,3 +15,7 @@
 [好的用户界面-界面设计的一些技巧](http://www.cnblogs.com/Wayou/p/goodui.html)
 
 [Javascript是单线程，浏览器非单线程](http://caibaojian.com/js-event-loop.html)
+
+[css3.0实现的各种形状](http://www.cnblogs.com/asqq/archive/2012/04/13/2438861.html)
+
+[终于搞懂了CSS实现三角形图标的原理](http://www.tuicool.com/articles/3eaINn)
