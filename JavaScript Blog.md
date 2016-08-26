@@ -23,3 +23,19 @@
 [前端技术岗面试怎么破](http://caibaojian.com/fe-interview.html)
 
 [CSS进阶：提高你前端水平的 4 个技巧](http://web.jobbole.com/86793/?utm_source=top.caibaojian.com/112597)
+
+[高性能滚动 scroll 及页面渲染优化](http://www.cnblogs.com/coco1s/p/5499469.html)
+
+[148个资源让你成为CSS专家](https://segmentfault.com/a/1190000006689923)
+
+[UI设计之按钮：风格演变和最佳实践](http://www.zcfy.cc/article/buttons-in-ui-design-the-evolution-of-style-and-best-practices-ux-planet-1118.html)
+
+[怎么设计响应式WEB？响应式WEB设计的优缺点](http://www.jb51.net/web/233387.html)
+
+[说说CSS学习中的瓶颈](http://www.zhangxinxu.com/wordpress/2012/07/bottleneck-css-study/)
+
+[爱上朴实的CSS细节](http://blog.jobbole.com/28088/)
+
+[CSS3 Filter的十种特效](http://www.w3cplus.com/css3/ten-effects-with-css3-filter)
+
+[javascript风格指南中文版](http://caibaojian.com/toutiao/6194)
