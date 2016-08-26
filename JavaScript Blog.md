@@ -19,3 +19,7 @@
 [css3.0实现的各种形状](http://www.cnblogs.com/asqq/archive/2012/04/13/2438861.html)
 
 [终于搞懂了CSS实现三角形图标的原理](http://www.tuicool.com/articles/3eaINn)
+
+[前端技术岗面试怎么破](http://caibaojian.com/fe-interview.html)
+
+[CSS进阶：提高你前端水平的 4 个技巧](http://web.jobbole.com/86793/?utm_source=top.caibaojian.com/112597)
