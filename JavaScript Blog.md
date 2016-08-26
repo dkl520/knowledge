@@ -7,3 +7,11 @@
 每天一点JS小知识：[JavaScript Tips](http://www.jstips.co/zh_CN)
 
 [JavaScript中真正的哈希映射](http://www.tuicool.com/articles/NBVvmqU)
+
+[浏览器如何工作](http://www.osedu.net/article/php/2011-11-29/360.html)
+
+[How Browsers Work](http://taligarsiel.com/Projects/howbrowserswork1.htm?utm_source=caibaojian.com)
+
+[好的用户界面-界面设计的一些技巧](http://www.cnblogs.com/Wayou/p/goodui.html)
+
+[Javascript是单线程，浏览器非单线程](http://caibaojian.com/js-event-loop.html)
