@@ -16,26 +16,26 @@
 
 [Javascript是单线程，浏览器非单线程](http://caibaojian.com/js-event-loop.html)
 
-[css3.0实现的各种形状](http://www.cnblogs.com/asqq/archive/2012/04/13/2438861.html)
-
 [终于搞懂了CSS实现三角形图标的原理](http://www.tuicool.com/articles/3eaINn)
 
 [前端技术岗面试怎么破](http://caibaojian.com/fe-interview.html)
 
-[CSS进阶：提高你前端水平的 4 个技巧](http://web.jobbole.com/86793/?utm_source=top.caibaojian.com/112597)
-
 [高性能滚动 scroll 及页面渲染优化](http://www.cnblogs.com/coco1s/p/5499469.html)
 
-[148个资源让你成为CSS专家](https://segmentfault.com/a/1190000006689923)
-
-[UI设计之按钮：风格演变和最佳实践](http://www.zcfy.cc/article/buttons-in-ui-design-the-evolution-of-style-and-best-practices-ux-planet-1118.html)
-
-[怎么设计响应式WEB？响应式WEB设计的优缺点](http://www.jb51.net/web/233387.html)
-
-[说说CSS学习中的瓶颈](http://www.zhangxinxu.com/wordpress/2012/07/bottleneck-css-study/)
-
-[爱上朴实的CSS细节](http://blog.jobbole.com/28088/)
-
-[CSS3 Filter的十种特效](http://www.w3cplus.com/css3/ten-effects-with-css3-filter)
-
 [javascript风格指南中文版](http://caibaojian.com/toutiao/6194)
+
+[关于 JavaScript 的36道题](http://www.th7.cn/web/js/201501/80821.shtml)
+
+[JavaScript中有趣的反柯里化](http://blog.jobbole.com/32059/)
+
+[谈谈 ES6 的 Promise 对象](http://blog.acwong.org/2015/06/22/es6-promise/)
+
+[2016年5月15个有趣的CSS和JavaScript库](http://www.jcodecraeer.com/a/qianduankaifa/css3/2016/0608/4343.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[JS闭包与柯里化](http://www.itxueyuan.org/view/5637.html)
+
+[柯里化对函数式编程有何意义](https://www.zhihu.com/question/20037482)
+
+[RequireJS 中文网](http://www.requirejs.cn/docs/start.html)
+
+[Javascript模块化编程（三）：require.js的用法](http://www.ruanyifeng.com/blog/2012/11/require_js.html)
