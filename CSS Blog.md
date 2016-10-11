@@ -1,5 +1,3 @@
-清除行内元素之间HTML空白：[脚本之家解决方法](http://www.jb51.net/css/100638.html), [知乎解决方法](http://www.zhihu.com/question/21468450)
-
 [怎么设计响应式WEB？响应式WEB设计的优缺点](http://www.jb51.net/web/233387.html)
 
 [说说CSS学习中的瓶颈](http://www.zhangxinxu.com/wordpress/2012/07/bottleneck-css-study/)
