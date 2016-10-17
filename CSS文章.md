@@ -21,6 +21,7 @@
 - [终于搞懂了CSS实现三角形图标的原理](http://www.tuicool.com/articles/3eaINn)
 - [CSS3 Filter的十种特效](http://www.w3cplus.com/css3/ten-effects-with-css3-filter)
 - [css3.0实现的各种形状](http://www.cnblogs.com/asqq/archive/2012/04/13/2438861.html)
+- [史上最强大的40多个纯CSS绘制的图形](http://www.codeceo.com/article/40-css-shapes.html)
 
 ## 响应式设计
 
