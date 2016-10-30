@@ -34,3 +34,4 @@
 - [CSS进阶：提高你前端水平的 4 个技巧](http://web.jobbole.com/86793/?utm_source=top.caibaojian.com/112597)
 - [Normalize.css 与传统的 CSS Reset 有哪些区别](https://www.zhihu.com/question/20094066)
 - [Sass vs. LESS](https://css-tricks.com/sass-vs-less/)
+- [如何编写自定义Sass 函数](http://www.tuicool.com/articles/fYzQziZ)
