@@ -5,6 +5,7 @@
 - [RequireJS 中文网](http://www.requirejs.cn/docs/start.html)
 - [深入理解JavaScript 模块模式](http://www.oschina.net/translate/javascript-module-pattern-in-depth)
 - [Javascript模块化编程（三）：require.js的用法](http://www.ruanyifeng.com/blog/2012/11/require_js.html)
+- [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)
 
 ## ES6
 
